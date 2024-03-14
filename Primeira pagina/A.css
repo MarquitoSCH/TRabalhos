@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    text-align: center;
+  }
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
